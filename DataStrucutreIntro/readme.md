@@ -1,4 +1,4 @@
-#What is Data structure?
+# What is Data structure?
 
 - data structure is a collection of values 
     - vales had relationship with each other 
