@@ -8,12 +8,12 @@
 | -length:**int** | 
 | -maxItems:**int** | 
 | ------------- |
-|[+MyArray(int maxItems)](#Constructor explanation )  |
-|[+T getIndex(int index)](#T getIndex(int index)) |
-|[+Push(T item)](#Push(T item)) |
-|[+printItems()](#printItems()) |
-|[+Delete(int index)](#Delete(int index)) |
-|[+ Pop()(T item)](#Pop()) |
+|+MyArray(int maxItems|
+|+T getIndex(int index) |
+|+Push(T item) |
+|+printItems() |
+|+Delete(int index) |
+|+ Pop()(T item) |
 
 
 ## Properties explanation 
