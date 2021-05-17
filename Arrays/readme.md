@@ -8,25 +8,31 @@
 - some of the array methods are lookup,push,insert and delete 
 - [Code Section](../Arrays/simpleArray.js)
 ---
-### BIG O result for array methods
-| Tables        | Are           | 
-| ------------- |:-------------:| 
-| lookup     | O(1) | 
-| Push      | O(1)   |   
-| Insert | O(N)      |    
-| Delete | O(N)      |    
----
+###Arrays does the following operation
+-Create
+- Update
+-Edit 
+-Delete
+
 # There are two types of arrays 
-1. Dynamic Arrays - size will increase with content,allow copy and rebuild without any issues. 
- ```
- const strings = ["a","b","c","d"];
- ```
-- this is a dynamic array in JavaScript it will grow with the size thus anything can be added at any location without having to copy it 
-2. Static Arrays - fixed with limited content 
-  ```
-  int [] mylist = new int[5];
-   ```
-- this is a fixed list in java where array size limit is 5 
+1. Unordered Arrays - arrays are not in order 
+ - fast insertion means u can enter really quick
+ - search slowest as it will have to go through each data one step at a time
+```
+a = [1,99,22,33]
+
+```
+- will have to go through each one of them one at a time to find the data. 
+
+
+2. Ordered Arrays 
+  - array in order could be based on highest to lowest or vice versa 
+ - searching very fast (uses [BinarySearch](https://github.com/IshtiaqueNafis/datastructuresandalgorithms/tree/master/Arrays/Searching%20Algorithims/BinarySearch))
+ 
+```
+a= [1,2,3,4,5] 
+```
+- in here all the elements are completely in order from lowest to highest thus this is a 
 ---
 | Section | JS Link | Java Link  | Code notes
 | ----------- | ----------- | ----------- |----------- |
