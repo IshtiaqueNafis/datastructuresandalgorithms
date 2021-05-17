@@ -31,4 +31,4 @@
 | Section | JS Link | Java Link  | Code notes
 | ----------- | ----------- | ----------- |----------- |
 | Array Crud Operation | [JavaScript](../Arrays/ArrayCRUD/MyArray.js) | [Java](https://github.com/IshtiaqueNafis/DataStructureJAVACode/blob/master/src/ArrayClass/MyArray.java)|[link](../Arrays/ArrayCRUD/readme.md)
- Binary Search | NA |[Java](https://github.com/IshtiaqueNafis/DataStructureJAVACode/blob/master/src/ArrayClass/MyArray.java) | [Java](https://github.com/IshtiaqueNafis/DataStructureJAVACode/blob/master/src/ArrayClass/MyArray.java)
+ Binary Search | NA |[Java](https://github.com/IshtiaqueNafis/DataStructureJAVACode/blob/master/src/ArrayClass/MyArray.java) | [Java](../Arrays/Searching Algorithims/BinarySearch/readme.md)
