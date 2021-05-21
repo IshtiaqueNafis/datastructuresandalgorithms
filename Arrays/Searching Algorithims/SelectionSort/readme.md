@@ -1,4 +1,4 @@
-#Selection Sort 
+# Selection Sort 
 - uses divide and conquer technique 
 - where it divides the array into two section 
 - first number is assumed to be always sorted thus assumed to be the smallest item here. 
